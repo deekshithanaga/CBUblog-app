@@ -14,3 +14,10 @@ Comment on posts
 Search and filter posts
 Responsive design for mobile and desktop
 Deployed on Google Cloud Platform (GCP) with OpenShift 
+
+Usage
+Register and log in to the portal.
+Create new blog posts by navigating to the 'Create Post' section.
+Browse and read posts created by other students.
+Comment on posts to engage with the community.
+
